@@ -1,0 +1,20 @@
+Bolnica/Kanal/05:30,06:30/06:00,07:00/1.0/35.0/SvakiDan/
+Bolnica/Klopce/07:00,09:00/08:00,10:00/1.0/35.0/Praznik/
+Bolnica/Pehare/07:00,08:00,09:00,10:00/07:15,08:15,09:15,10:15/1.0/35.0/SvakiDan/
+Bolnica/Perin Han/08:00,08:30;09:00,09:30/08:15,08:45,09:15,09:45/1.0/35.0/SvakiDan/
+Bolnica/Blatusa/10:00,11:00,12:00,13:00/10:30,11:30,12:30,13:30/1.0/35.0/SvakiDan/
+Bolnica/Babino/15:00,15:30,16:00,16:30/15:15,15:45,16:15,16:45/1.0/35.0/Raspust/
+Bolnica/Gornja Zenica/08:00,16:00,17:00/08:30,16:30,17:30/1.0/35.0/SvakiDan/
+Bolnica/Ricice/09:00,13:00,19:00/09:45,13:45,19:45/1.0/35.0/SvakiDan/
+Bolnica/Raspotocje/07:00,08:00,09:00/07:20,08:20,09:20/1.0/35.0/SvakiDan/
+Bolnica/Lokvine/10:00,10:30,11:00/10:15,10:45,11:15/1.0/35.0/SvakiDan/
+Stanica/Tisina/08:00,10:00,13:00/08:30,10:30,13:30/2.0/70.0/SvakiDan/
+Stanica/Stranjani/07:00,13:00,18:00/07:30,13:30,18:30/2.0/70.0/SvakiDan/
+Stanica/Nemila/07:15,15:15,18:15/08:00,16:00,19:00/2.5/75.0/SvakiDan/
+Stanica/Hece/08:30,10:30,17:30/09:00,11:00,18:00/1.5/45.0/SvakiDan/
+Stanica/Gladovici/07:00,14:00,19:00/07:30,14:30,19:30/2.0/70.0/SvakiDan/
+Stanica/Vranduk/07:00,16:00,20:00/07:45,16:45,20:45/2.5/75.0/SvakiDan/
+Stanica/Serici/06:00,11:00,16:00,21:00/06:30,11:30,16:30,21:30/2.5/75.0/SvakiDan/
+Stanica/Puhovac/14:00,18:00,23:00/14:30,18:30,23:30/2.0/70.0/Praznik/
+Stanica/Topcic Polje/05:00,12:00,19:00,23:30/05:30,12:30,19:30,24:00/2.5/75.0/SvakiDan/
+Stanica/Vjetrenice/07:00,18:00/07:35,18:35/3.0/85.0/SvakiDan/
