@@ -4,4 +4,4 @@ A program that encompasses basic functionalities of a bus station intended for t
 
 * Technologies used: C++
 
-###Screenshots of the application: 
+### Screenshots of the application: 
